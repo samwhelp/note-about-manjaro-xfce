@@ -13,6 +13,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
 
 
@@ -23,6 +24,15 @@
 | 微調腳本 |
 | -------- |
 | [Manjaro Xfce](https://github.com/samwhelp/manjaro-xfce-adjustment/tree/main/prototype/main/) |
+
+
+
+
+## 佈景主題
+
+| 佈景主題 |
+| -------- |
+| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-manjaro-xfce/read/subject/grub.html) |
 
 
 
