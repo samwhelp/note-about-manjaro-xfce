@@ -13,7 +13,9 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [按鍵綁定](#按鍵綁定)
 * [佈景主題](#佈景主題)
+* [如何](#如何)
 * [相關筆記](#相關筆記)
 
 
@@ -28,11 +30,30 @@
 
 
 
+## 按鍵綁定
+
+| 按鍵綁定 |
+| --- |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-manjaro-xfce/read/config/keybind.html) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-manjaro-xfce/read/config/mousebind.html) |
+
+
+
+
 ## 佈景主題
 
 | 佈景主題 |
 | -------- |
 | [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-manjaro-xfce/read/subject/grub.html) |
+
+
+
+
+## 如何
+
+| [如何](https://samwhelp.github.io/note-about-manjaro-xfce/read/howto.html) |
+| ------- |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-manjaro-xfce/read/howto/config-mouse-button-modifier.html) |
 
 
 
