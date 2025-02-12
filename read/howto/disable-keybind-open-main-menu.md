@@ -23,7 +23,7 @@ parent: 如何
 
 ## 前提
 
-在「Manjaro Xfce」有啟動「`xcape -e 'Super_L=Alt_L|F1'`」來達成這個機制。
+在「Manjaro Xfce」是透過「[~/.config/autostart/xcape.desktop](https://github.com/samwhelp/manjaro-xfce-adjustment/blob/main/sample/xcape/xcape.desktop#L7)」這個檔案，來執行「`xcape -e 'Super_L=Alt_L|F1'`」達成這個機制。
 
 
 
