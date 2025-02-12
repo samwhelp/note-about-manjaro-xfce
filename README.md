@@ -56,6 +56,7 @@
 | [如何](https://samwhelp.github.io/note-about-manjaro-xfce/read/howto.html) |
 | ------- |
 | [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-manjaro-xfce/read/howto/config-mouse-button-modifier.html) |
+| [停用按鍵綁定「Super_L」開啟「Main Menu」](https://samwhelp.github.io/note-about-manjaro-xfce/read/howto/disable-keybind-open-main-menu.html) |
 
 
 
