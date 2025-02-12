@@ -25,7 +25,8 @@
 
 | 微調腳本 |
 | -------- |
-| [Manjaro Xfce](https://github.com/samwhelp/manjaro-xfce-adjustment/tree/main/prototype/main/) |
+| [Manjaro Xfce Config](https://github.com/samwhelp/manjaro-xfce-adjustment/tree/main/prototype/main/) |
+| [Tool Config](https://github.com/samwhelp/manjaro-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
