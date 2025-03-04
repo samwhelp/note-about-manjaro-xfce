@@ -46,7 +46,7 @@
 
 | 佈景主題 |
 | -------- |
-| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-manjaro-xfce/read/subject/grub.html) |
+| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-manjaro/read/subject/grub.html) |
 
 
 
